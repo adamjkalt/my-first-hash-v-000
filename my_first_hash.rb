@@ -12,6 +12,8 @@ def retrieval
                   "porcelain vases" => 2,
                   "oil paintings" => 3
                  }
+  shipping_manifest [2]
+end
 
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
 
